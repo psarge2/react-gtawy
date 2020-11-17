@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button } from './styles/Button'
+import { Button } from './Button'
 import Video from '../assets/videos/BeachAerial.mp4'
 
 const Hero = () => {
