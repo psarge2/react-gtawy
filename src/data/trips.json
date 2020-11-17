@@ -1,0 +1,27 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Bora Bora at night",
+        "name": "Bora Bora",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Swimming in Paradise",
+        "name": "Pardise Cove",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Mountain Hiking",
+        "name": "Mountain Hike",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Amazon Falls",
+        "name": "Amazon Falls",
+        "button": "View Destination"
+    }
+
+]
